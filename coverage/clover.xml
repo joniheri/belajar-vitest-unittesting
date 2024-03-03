@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709457153125" clover="3.2.0">
+  <project timestamp="1709457153125" name="All files">
+    <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1" elements="10" coveredelements="3" complexity="0" loc="6" ncloc="6" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="App.jsx" path="C:/JON-DATA/PROJECT-REACT-VITE/belajar-vitest-unittesting/src/App.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="main.jsx" path="C:/JON-DATA/PROJECT-REACT-VITE/belajar-vitest-unittesting/src/main.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.funtions">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="FunctionTest.jsx" path="C:/JON-DATA/PROJECT-REACT-VITE/belajar-vitest-unittesting/src/funtions/FunctionTest.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
