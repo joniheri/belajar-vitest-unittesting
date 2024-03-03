@@ -19,13 +19,13 @@ Currently, two official plugins are available:
 ## Sintak run test
 
 - For run test any file.test:
-  - $ npx vitest --run nameFile.test.js
-- For run all file test with exptension file.test and test Watch Mode:
+  - $ npx vitest --run NameFile.test.js
+- For run all file test with exptension NameFile.test and test Watch Mode:
   - $ npx vitest
 - For run this test to check all file test has coverage ot uncoverage, you can use this code in terminal:
   - $ npx vitest --run --coverage
   - or
-  - $ npx vitest --run --coverage nameFile.test
+  - $ npx vitest --run --coverage NameFile.test
   - But, if you want to use test coverage, you must install dependency istanbul first, and add configuration in file "vitest.config.js" with code "coverage: {provider: 'istanbul'}". Because, this dependecy is compatibel with vitest
 - Vitest UI
   - For documentation about vitest-iu, visit this link: https://vitest.dev/guide/ui
