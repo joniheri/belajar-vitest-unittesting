@@ -1,5 +1,7 @@
-import { render } from "react-dom";
 import { describe, expect, it } from "vitest";
+import { waitFor, render } from "@testing-library/react";
+
+import MasterParameter from "../src/";
 
 describe("Sample Slow Test", () => {
   it.concurrent("should pass 1", async () => {
