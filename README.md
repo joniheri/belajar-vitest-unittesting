@@ -29,5 +29,5 @@ Currently, two official plugins are available:
   - But, if you want to use test coverage, you must install dependency istanbul first, and add configuration in file "vitest.config.js" with code "coverage: {provider: 'istanbul'}". Because, this dependecy is compatibel with vitest
 - Vitest UI
   - For documentation about vitest-iu, visit this link: https://vitest.dev/guide/ui
-  - To run vitest-ui, yout can use this code:
+  - To run vitest-ui, you can use this code:
     - npm vitest --ui
